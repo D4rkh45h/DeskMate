@@ -11,7 +11,7 @@
 
 # DeskMate 🚀
 
-![Logo de la Herramienta](./Logo_DeskMate.png)
+![Logo de la Herramienta](/Logo_DeskMate.png) 
 <!-- Si no tienes un logo, puedes eliminar la línea anterior o usar un icono genérico. -->
 
 DeskMate es una herramienta diseñada para mantener tu escritorio organizado automáticamente. Clasifica y mueve archivos a carpetas predefinidas según su tipo, y registra todas estas acciones en un archivo de texto (log) para que siempre tengas un historial detallado de la organización de tu espacio de trabajo.
@@ -26,7 +26,7 @@ DeskMate es una herramienta diseñada para mantener tu escritorio organizado aut
 
 <p align="center">
   <img src="gif1.gif" alt="Demostración en GIF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <em>Una rápida demostración del flujo de trabajo principal de la DeskMate, mostrando sus características clave.</em>
+  <em>Una rápida demostración del flujo de trabajo principal de DeskMate, mostrando sus características clave.</em>
 </p>
 
 ### Capturas de Pantalla Clave
@@ -61,11 +61,11 @@ DeskMate es una herramienta diseñada para mantener tu escritorio organizado aut
 
 ## Estructura del Proyecto
 
-Este repositorio contiene la herramienta **CySortify** y sus archivos asociados.
+Este repositorio contiene la herramienta **DeskMate** y sus archivos asociados.
 ```bash
 DeskMate/
 ├── DeskMate.py
-├── DeskMate.spec  
+├── DeskMate.spec
 ├── README.md
 └── README.en.md
 ```
