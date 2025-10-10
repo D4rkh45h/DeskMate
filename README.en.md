@@ -1,11 +1,11 @@
 <p style="text-align: right; margin-bottom: 20px;">
-  <!-- US Flag for English version -->
-  <a href="README.en.md" style="text-decoration: none; margin-left: 10px;" title="English">
-    <img src="https://flagpedia.net/data/flags/w1600/us.png" alt="English" width="30">
-  </a>
   <!-- Spanish Flag for Spanish version -->
   <a href="README.md" style="text-decoration: none; margin-left: 10px;" title="Español">
     <img src="https://flagpedia.net/data/flags/w1600/es.png" alt="Español" width="30">
+  </a>
+  <!-- US Flag for English version -->
+  <a href="README.en.md" style="text-decoration: none; margin-left: 10px;" title="English">
+    <img src="https://flagpedia.net/data/flags/w1600/us.png" alt="English" width="30">
   </a>
 </p>
 
