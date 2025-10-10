@@ -52,6 +52,27 @@ DeskMate es una herramienta diseñada para mantener tu escritorio organizado aut
 </p>
 
 ---
+## 📝 Funcionamiento de DeskMate
+
+El uso de DeskMate es directo y se centra en la interacción inicial para comenzar la organización de tu espacio digital.
+
+1.  **Iniciar la Aplicación:**
+    Ejecuta `DeskMate.py` (o `DeskMate.exe` si has generado el ejecutable) desde tu terminal o haciendo doble clic, según tu sistema.
+    ```bash
+    # Para ejecutar desde script Python
+    python3 DeskMate.py
+    ```
+
+2.  **Confirmar Operación:**
+    Al iniciar, la herramienta te solicitará **confirmación para proceder con los cambios**. Es crucial que aceptes para que DeskMate pueda comenzar su tarea de organización.
+
+3.  **Resultado de la Organización:**
+    Una vez confirmada la ejecución, DeskMate procederá a:
+    *   **Clasificar tu Escritorio:** Moverá los archivos a sus respectivas carpetas predefinidas.
+    *   **Generar Archivos de Registro:** Creará y actualizará los archivos de texto (`log`) que detallan todas las acciones realizadas, proporcionando un historial completo de la limpieza de tu escritorio.
+
+De esta manera, tu escritorio quedará ordenado y tendrás un registro accesible de cada acción de organización.
+---
 
 ## Características
 
