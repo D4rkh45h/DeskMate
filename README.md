@@ -11,7 +11,7 @@
 
 # DeskMate 🚀
 
-![Logo de la Herramienta](Logo DeskMate.png) 
+![Logo de la Herramienta](./Logo DeskMate.png)
 <!-- Si no tienes un logo, puedes eliminar la línea anterior o usar un icono genérico. -->
 
 Una breve descripción de una o dos frases sobre qué hace tu herramienta y para qué sirve.
