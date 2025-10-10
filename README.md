@@ -9,7 +9,7 @@
   </a>
 </p>
 
-# NombreDeTuHerramienta 🚀
+# DeskMate 🚀
 
 ![Logo de la Herramienta](URL_DEL_LOGO_DE_TU_HERRAMIENTA_AQUI) 
 <!-- Si no tienes un logo, puedes eliminar la línea anterior o usar un icono genérico. -->
