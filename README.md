@@ -63,11 +63,11 @@ DeskMate es una herramienta diseñada para mantener tu escritorio organizado aut
 
 Este repositorio contiene la herramienta **CySortify** y sus archivos asociados.
 ```bash
-Herramienta/
-├── archivo
-├── Archivo
-├── Archivo
-└── Archivo
+DeskMate/
+├── DeskMate.py
+├── DeskMate.spec  
+├── README.md
+└── README.en.md
 ```
 ---
 
@@ -83,16 +83,24 @@ Aquí encontrarás información más detallada sobre el proyecto:
 
 ---
 
-## Uso
-
-Explica cómo se utiliza tu herramienta. Proporciona ejemplos claros y comandos.
 
 ```bash
-# Para ver las opciones disponibles
-python nombre_del_script_principal.py --help
+git clone https://github.com/D4rkh45h/DeskMate.git
+cd DeskMate
+# python -m venv venv  # (Opcional: Crear entorno virtual)
+# .\venv\Scripts\activate # (Opcional: Activar entorno virtual)
+pip install pyinstaller
+pyinstaller --clean --onefile --noconsole --version-file=version.txt --icon=deskmate.ico DeskMate.py
 
-# Un ejemplo de uso básico
-python nombre_del_script_principal.py --objetivo ejemplo.com --modo escaneo_rápido
+# El ejecutable se encontrará en: DeskMate/dist/DeskMate/DeskMate.exe
+```
 
-# Otro ejemplo
-python nombre_del_script_principal.py --entrada lista_dominios.txt --salida resultados.json
+## 🐧 Guía Rápida para Linux
+
+```bash
+git clone https://github.com/D4rkh45h/DeskMate.git
+cd DeskMate
+# python3 -m venv venv  # (Opcional: Crear entorno virtual)
+# source venv/bin/activate # (Opcional: Activar entorno virtual)
+pip install -r requirements.txt
+python3 DeskMate.py
