@@ -14,8 +14,7 @@
 ![Logo de la Herramienta](./Logo_DeskMate.png)
 <!-- Si no tienes un logo, puedes eliminar la línea anterior o usar un icono genérico. -->
 
-Una breve descripción de una o dos frases sobre qué hace tu herramienta y para qué sirve.
-Por ejemplo: "Una herramienta de código abierto para automatizar la recopilación de información OSINT de redes sociales."
+DeskMate es una herramienta diseñada para mantener tu escritorio organizado automáticamente. Clasifica y mueve archivos a carpetas predefinidas según su tipo, y registra todas estas acciones en un archivo de texto (log) para que siempre tengas un historial detallado de la organización de tu espacio de trabajo.
 
 <h2 align="center">Demostración</h2>
 
@@ -26,25 +25,30 @@ Por ejemplo: "Una herramienta de código abierto para automatizar la recopilaci�
 ### GIF de la Herramienta en Funcionamiento
 
 <p align="center">
-  <img src="URL_DE_TU_GIF_AQUI" alt="Demostración en GIF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <em>Una rápida demostración del flujo de trabajo principal de la herramienta, mostrando sus características clave.</em>
+  <img src="gif1.gif" alt="Demostración en GIF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <em>Una rápida demostración del flujo de trabajo principal de la DeskMate, mostrando sus características clave.</em>
 </p>
 
 ### Capturas de Pantalla Clave
 
 <p align="center">
-  <img src="URL_DE_TU_FOTO_1_AQUI" alt="Captura de pantalla 1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <em>Descripción de lo que se muestra en la primera captura, por ejemplo: "Vista de la interfaz principal con los resultados cargados."</em>
+  <img src="foto1.png" alt="Captura de pantalla 1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <em>Escritorio desordenado.</em>
 </p>
 
 <p align="center">
-  <img src="URL_DE_TU_FOTO_2_AQUI" alt="Captura de pantalla 2" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <em>Descripción de lo que se muestra en la segunda captura, por ejemplo: "Opciones de configuración y personalización."</em>
+  <img src="foto2.png" alt="Captura de pantalla 2" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <em>Ejecutamos la herramienta para ordenar el escritorio.</em>
 </p>
 
 <p align="center">
-  <img src="URL_DE_TU_FOTO_3_AQUI" alt="Captura de pantalla 3" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <em>Descripción de lo que se muestra en la tercera captura, por ejemplo: "Ejemplo de un informe generado por la herramienta."</em>
+  <img src="foto3.png" alt="Captura de pantalla 3" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <em>Una vez confirmada la ejecución de la herramienta veremos el escritorio ordenado.</em>
+</p>
+
+<p align="center">
+  <img src="foto4.png" alt="Captura de pantalla 4" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <em>Logs generados por la herramienta.</em>
 </p>
 
 ---
