@@ -83,24 +83,31 @@ Aquí encontrarás información más detallada sobre el proyecto:
 
 ---
 
+## 🚀 Guía Rápida de Uso e Instalación
 
 ```bash
+# PASOS GENERALES PARA OBTENER EL PROYECTO
 git clone https://github.com/D4rkh45h/DeskMate.git
 cd DeskMate
-# python -m venv venv  # (Opcional: Crear entorno virtual)
-# .\venv\Scripts\activate # (Opcional: Activar entorno virtual)
+
+# CONFIGURACIÓN DEL ENTORNO VIRTUAL (OPCIONAL, PERO RECOMENDADO)
+# Para Windows:
+# python -m venv venv
+# .\venv\Scripts\activate
+#
+# Para Linux:
+# python3 -m venv venv
+# source venv/bin/activate
+
+# --- OPCIONES DE EJECUCIÓN ---
+
+# 🪟 PARA USUARIOS DE WINDOWS (x64):
+# Instalación de PyInstaller y Generación del Ejecutable .exe
 pip install pyinstaller
 pyinstaller --clean --onefile --noconsole --version-file=version.txt --icon=deskmate.ico DeskMate.py
+# El ejecutable compilado estará disponible en: DeskMate/dist/DeskMate/DeskMate.exe
 
-# El ejecutable se encontrará en: DeskMate/dist/DeskMate/DeskMate.exe
-```
-
-## 🐧 Guía Rápida para Linux
-
-```bash
-git clone https://github.com/D4rkh45h/DeskMate.git
-cd DeskMate
-# python3 -m venv venv  # (Opcional: Crear entorno virtual)
-# source venv/bin/activate # (Opcional: Activar entorno virtual)
+# 🐧 PARA USUARIOS DE LINUX:
+# Instalación de Dependencias y Ejecución del Script
 pip install -r requirements.txt
 python3 DeskMate.py
