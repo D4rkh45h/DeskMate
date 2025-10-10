@@ -1,4 +1,4 @@
-# Código de Conducta – [NOMBRE_DE_TU_ENTIDAD_O_PROYECTOS]
+# Código de Conducta – DeskMate
 
 ## Nuestro Compromiso
 
