@@ -55,11 +55,9 @@ DeskMate es una herramienta diseñada para mantener tu escritorio organizado aut
 
 ## Características
 
-*   Lista de las funcionalidades principales de tu herramienta.
-*   Sé conciso pero descriptivo.
-*   Ejemplo: Soporte para múltiples plataformas (Linux, Windows, macOS).
-*   Ejemplo: Interfaz de línea de comandos intuitiva.
-*   Ejemplo: Exportación de resultados a diferentes formatos (CSV, JSON).
+*   **Organización Automática:** Clasifica y mueve archivos del escritorio a carpetas designadas según su tipo (ej., documentos, imágenes, ejecutables).
+*   **Registro Detallado (Log):** Genera un archivo de texto (`log`) con el historial completo de todos los movimientos y acciones realizadas, permitiendo un seguimiento preciso.
+*   **Compatibilidad:** Optimizada para entornos Windows x64.
 
 ## Estructura del Proyecto
 
