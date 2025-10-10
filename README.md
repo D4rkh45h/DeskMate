@@ -11,10 +11,10 @@
 
 # DeskMate 🚀
 
+DeskMate es una herramienta diseñada para mantener tu escritorio organizado automáticamente. Clasifica y mueve archivos a carpetas predefinidas según su tipo, y registra todas estas acciones en un archivo de texto (log) para que siempre tengas un historial detallado de la organización de tu espacio de trabajo.
+
 ![Logo de la Herramienta](/Logo_DeskMate.png) 
 <!-- Si no tienes un logo, puedes eliminar la línea anterior o usar un icono genérico. -->
-
-DeskMate es una herramienta diseñada para mantener tu escritorio organizado automáticamente. Clasifica y mueve archivos a carpetas predefinidas según su tipo, y registra todas estas acciones en un archivo de texto (log) para que siempre tengas un historial detallado de la organización de tu espacio de trabajo.
 
 <h2 align="center">Demostración</h2>
 
