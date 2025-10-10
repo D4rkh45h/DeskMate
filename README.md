@@ -96,11 +96,11 @@ DeskMate/
 
 Aquí encontrarás información más detallada sobre el proyecto:
 
-*   🤝 [**Código de Conducta**](CODIGO_DE_CONDUCTA.md) - Normas para una comunidad respetuosa.
-*   📬 [**Cómo Contribuir**](COMO_CONTRIBUIR.md) - Pasos para colaborar con el proyecto.
-*   🔐 [**Seguridad**](SEGURIDAD.md) - Información sobre cómo reportar vulnerabilidades.
-*   ⚠️ [**Aviso Legal**](AVISO_LEGAL.md) - Cláusulas y advertencias legales importantes.
-*   📢 [**Soporte**](SOPORTE.md) - Dónde obtener ayuda o hacer preguntas.
+*   🤝 [**Código de Conducta**](.github/CODIGO_DE_CONDUCTA.md) - Normas para una comunidad respetuosa.
+*   📬 [**Cómo Contribuir**](.github/COMO_CONTRIBUIR.md) - Pasos para colaborar con el proyecto.
+*   🔐 [**Seguridad**](.github/SEGURIDAD.md) - Información sobre cómo reportar vulnerabilidades.
+*   ⚠️ [**Aviso Legal**](.github/AVISO_LEGAL.md) - Cláusulas y advertencias legales importantes.
+*   📢 [**Soporte**](.github/SOPORTE.md) - Dónde obtener ayuda o hacer preguntas.
 
 ---
 
