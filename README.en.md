@@ -96,11 +96,11 @@ DeskMate/
 
 Here you will find more detailed information about the project:
 
-*   🤝 [**Code of Conduct**](CODE_OF_CONDUCT.md) - Rules for a respectful community.
-*   📬 [**How to Contribute**](HOW_TO_CONTRIBUTE.md) - Steps to collaborate with the project.
-*   🔐 [**Security**](SECURITY.md) - Information on how to report vulnerabilities.
-*   ⚠️ [**Legal Notice**](LEGAL_NOTICE.md) - Important legal clauses and disclaimers.
-*   📢 [**Support**](SUPPORT.md) - Where to get help or ask questions.
+*   🤝 [**Code of Conduct**](.github/CODE_OF_CONDUCT.md) - Rules for a respectful community.
+*   📬 [**How to Contribute**](.github/HOW_TO_CONTRIBUTE.md) - Steps to collaborate with the project.
+*   🔐 [**Security**](.github/SECURITY.md) - Information on how to report vulnerabilities.
+*   ⚠️ [**Legal Notice**](.github/LEGAL_NOTICE.md) - Important legal clauses and disclaimers.
+*   📢 [**Support**](.github/SUPPORT.md) - Where to get help or ask questions.
 
 ---
 
