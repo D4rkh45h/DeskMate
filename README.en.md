@@ -1,3 +1,12 @@
+[![Category](https://img.shields.io/badge/Category-Productivity-blue.svg?style=flat-square)](https://github.com/topics/productivity)
+[![Type](https://img.shields.io/badge/Type-Utility-green.svg?style=flat-square)](https://github.com/topics/utility)
+[![Function](https://img.shields.io/badge/Function-Desktop_Organizer-orange.svg?style=flat-square)](https://github.com/topics/desktop-organizer)
+[![Automation](https://img.shields.io/badge/Feature-Automation-red.svg?style=flat-square)](https://github.com/topics/automation)
+[![Language](https://img.shields.io/badge/Language-Python-informational.svg?style=flat-square)](https://github.com/topics/python)
+[![OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightgrey.svg?style=flat-square)](https://github.com/topics/windows)
+[![Project](https://img.shields.io/badge/Project-DeskMate-7D26CD.svg?style=flat-square)](https://github.com/D4rkh45h/DeskMate)
+[![Developer](https://img.shields.io/badge/Developer-d4rkh45h-brightgreen.svg?style=flat-square)](https://github.com/d4rkh45h)
+
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 8px; margin-bottom: 25px; padding-top: 10px;">
     <a href="README.md" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px; margin-right: 8px;" title="Español">
