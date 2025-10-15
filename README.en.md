@@ -1,13 +1,16 @@
-<p style="text-align: right; margin-bottom: 20px;">
-  <!-- Spanish Flag for Spanish version -->
-  <a href="README.md" style="text-decoration: none; margin-left: 10px;" title="Español">
-    <img src="https://flagpedia.net/data/flags/w1600/es.png" alt="Español" width="30">
-  </a>
-  <!-- US Flag for English version -->
-  <a href="README.en.md" style="text-decoration: none; margin-left: 10px;" title="English">
-    <img src="https://flagpedia.net/data/flags/w1600/us.png" alt="English" width="30">
-  </a>
-</p>
+<div align="center">
+  <div style="display: inline-flex; align-items: center; gap: 8px; margin-bottom: 25px; padding-top: 10px;">
+    <a href="README.md" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px; margin-right: 8px;" title="Español">
+      <img src="https://flagpedia.net/data/flags/w1600/es.png" alt="Español" width="36" style="vertical-align: middle;">
+      <span style="color: white; font-size: 18px; font-weight: 600; font-family: sans-serif;">  Español</span>
+    </a>
+    <span style="color: grey; font-size: 18px; font-family: sans-serif; margin-right: 8px;">|</span>
+    <a href="README.en.md" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;" title="English">
+      <img src="https://flagpedia.net/data/flags/w1600/us.png" alt="English" width="36" style="vertical-align: middle;">
+      <span style="color: deepskyblue; font-size: 18px; font-family: sans-serif; text-decoration: underline;">  English</span>
+    </a>
+  </div>
+</div>
 
 # DeskMate 🚀
 
